@@ -1,0 +1,3 @@
+state	avg_sales_receipt
+PE	187.99
+SP	137.5
