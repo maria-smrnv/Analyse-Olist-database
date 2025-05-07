@@ -1,0 +1,6 @@
+customer_city
+belo campo
+belo oriente
+belo vale
+belo jardim
+belo horizonte
